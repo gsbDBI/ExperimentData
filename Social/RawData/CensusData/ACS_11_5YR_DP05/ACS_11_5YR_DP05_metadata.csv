@@ -1,0 +1,327 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_VC03,Estimate; SEX AND AGE - Total population
+HC02_VC03,Margin of Error; SEX AND AGE - Total population
+HC03_VC03,Percent; SEX AND AGE - Total population
+HC04_VC03,Percent Margin of Error; SEX AND AGE - Total population
+HC01_VC04,Estimate; SEX AND AGE - Male
+HC02_VC04,Margin of Error; SEX AND AGE - Male
+HC03_VC04,Percent; SEX AND AGE - Male
+HC04_VC04,Percent Margin of Error; SEX AND AGE - Male
+HC01_VC05,Estimate; SEX AND AGE - Female
+HC02_VC05,Margin of Error; SEX AND AGE - Female
+HC03_VC05,Percent; SEX AND AGE - Female
+HC04_VC05,Percent Margin of Error; SEX AND AGE - Female
+HC01_VC07,Estimate; SEX AND AGE - Under 5 years
+HC02_VC07,Margin of Error; SEX AND AGE - Under 5 years
+HC03_VC07,Percent; SEX AND AGE - Under 5 years
+HC04_VC07,Percent Margin of Error; SEX AND AGE - Under 5 years
+HC01_VC08,Estimate; SEX AND AGE - 5 to 9 years
+HC02_VC08,Margin of Error; SEX AND AGE - 5 to 9 years
+HC03_VC08,Percent; SEX AND AGE - 5 to 9 years
+HC04_VC08,Percent Margin of Error; SEX AND AGE - 5 to 9 years
+HC01_VC09,Estimate; SEX AND AGE - 10 to 14 years
+HC02_VC09,Margin of Error; SEX AND AGE - 10 to 14 years
+HC03_VC09,Percent; SEX AND AGE - 10 to 14 years
+HC04_VC09,Percent Margin of Error; SEX AND AGE - 10 to 14 years
+HC01_VC10,Estimate; SEX AND AGE - 15 to 19 years
+HC02_VC10,Margin of Error; SEX AND AGE - 15 to 19 years
+HC03_VC10,Percent; SEX AND AGE - 15 to 19 years
+HC04_VC10,Percent Margin of Error; SEX AND AGE - 15 to 19 years
+HC01_VC11,Estimate; SEX AND AGE - 20 to 24 years
+HC02_VC11,Margin of Error; SEX AND AGE - 20 to 24 years
+HC03_VC11,Percent; SEX AND AGE - 20 to 24 years
+HC04_VC11,Percent Margin of Error; SEX AND AGE - 20 to 24 years
+HC01_VC12,Estimate; SEX AND AGE - 25 to 34 years
+HC02_VC12,Margin of Error; SEX AND AGE - 25 to 34 years
+HC03_VC12,Percent; SEX AND AGE - 25 to 34 years
+HC04_VC12,Percent Margin of Error; SEX AND AGE - 25 to 34 years
+HC01_VC13,Estimate; SEX AND AGE - 35 to 44 years
+HC02_VC13,Margin of Error; SEX AND AGE - 35 to 44 years
+HC03_VC13,Percent; SEX AND AGE - 35 to 44 years
+HC04_VC13,Percent Margin of Error; SEX AND AGE - 35 to 44 years
+HC01_VC14,Estimate; SEX AND AGE - 45 to 54 years
+HC02_VC14,Margin of Error; SEX AND AGE - 45 to 54 years
+HC03_VC14,Percent; SEX AND AGE - 45 to 54 years
+HC04_VC14,Percent Margin of Error; SEX AND AGE - 45 to 54 years
+HC01_VC15,Estimate; SEX AND AGE - 55 to 59 years
+HC02_VC15,Margin of Error; SEX AND AGE - 55 to 59 years
+HC03_VC15,Percent; SEX AND AGE - 55 to 59 years
+HC04_VC15,Percent Margin of Error; SEX AND AGE - 55 to 59 years
+HC01_VC16,Estimate; SEX AND AGE - 60 to 64 years
+HC02_VC16,Margin of Error; SEX AND AGE - 60 to 64 years
+HC03_VC16,Percent; SEX AND AGE - 60 to 64 years
+HC04_VC16,Percent Margin of Error; SEX AND AGE - 60 to 64 years
+HC01_VC17,Estimate; SEX AND AGE - 65 to 74 years
+HC02_VC17,Margin of Error; SEX AND AGE - 65 to 74 years
+HC03_VC17,Percent; SEX AND AGE - 65 to 74 years
+HC04_VC17,Percent Margin of Error; SEX AND AGE - 65 to 74 years
+HC01_VC18,Estimate; SEX AND AGE - 75 to 84 years
+HC02_VC18,Margin of Error; SEX AND AGE - 75 to 84 years
+HC03_VC18,Percent; SEX AND AGE - 75 to 84 years
+HC04_VC18,Percent Margin of Error; SEX AND AGE - 75 to 84 years
+HC01_VC19,Estimate; SEX AND AGE - 85 years and over
+HC02_VC19,Margin of Error; SEX AND AGE - 85 years and over
+HC03_VC19,Percent; SEX AND AGE - 85 years and over
+HC04_VC19,Percent Margin of Error; SEX AND AGE - 85 years and over
+HC01_VC21,Estimate; SEX AND AGE - Median age (years)
+HC02_VC21,Margin of Error; SEX AND AGE - Median age (years)
+HC03_VC21,Percent; SEX AND AGE - Median age (years)
+HC04_VC21,Percent Margin of Error; SEX AND AGE - Median age (years)
+HC01_VC23,Estimate; SEX AND AGE - 18 years and over
+HC02_VC23,Margin of Error; SEX AND AGE - 18 years and over
+HC03_VC23,Percent; SEX AND AGE - 18 years and over
+HC04_VC23,Percent Margin of Error; SEX AND AGE - 18 years and over
+HC01_VC24,Estimate; SEX AND AGE - 21 years and over
+HC02_VC24,Margin of Error; SEX AND AGE - 21 years and over
+HC03_VC24,Percent; SEX AND AGE - 21 years and over
+HC04_VC24,Percent Margin of Error; SEX AND AGE - 21 years and over
+HC01_VC25,Estimate; SEX AND AGE - 62 years and over
+HC02_VC25,Margin of Error; SEX AND AGE - 62 years and over
+HC03_VC25,Percent; SEX AND AGE - 62 years and over
+HC04_VC25,Percent Margin of Error; SEX AND AGE - 62 years and over
+HC01_VC26,Estimate; SEX AND AGE - 65 years and over
+HC02_VC26,Margin of Error; SEX AND AGE - 65 years and over
+HC03_VC26,Percent; SEX AND AGE - 65 years and over
+HC04_VC26,Percent Margin of Error; SEX AND AGE - 65 years and over
+HC01_VC28,Estimate; SEX AND AGE - 18 years and over
+HC02_VC28,Margin of Error; SEX AND AGE - 18 years and over
+HC03_VC28,Percent; SEX AND AGE - 18 years and over
+HC04_VC28,Percent Margin of Error; SEX AND AGE - 18 years and over
+HC01_VC29,Estimate; SEX AND AGE - Male
+HC02_VC29,Margin of Error; SEX AND AGE - Male
+HC03_VC29,Percent; SEX AND AGE - Male
+HC04_VC29,Percent Margin of Error; SEX AND AGE - Male
+HC01_VC30,Estimate; SEX AND AGE - Female
+HC02_VC30,Margin of Error; SEX AND AGE - Female
+HC03_VC30,Percent; SEX AND AGE - Female
+HC04_VC30,Percent Margin of Error; SEX AND AGE - Female
+HC01_VC32,Estimate; SEX AND AGE - 65 years and over
+HC02_VC32,Margin of Error; SEX AND AGE - 65 years and over
+HC03_VC32,Percent; SEX AND AGE - 65 years and over
+HC04_VC32,Percent Margin of Error; SEX AND AGE - 65 years and over
+HC01_VC33,Estimate; SEX AND AGE - Male
+HC02_VC33,Margin of Error; SEX AND AGE - Male
+HC03_VC33,Percent; SEX AND AGE - Male
+HC04_VC33,Percent Margin of Error; SEX AND AGE - Male
+HC01_VC34,Estimate; SEX AND AGE - Female
+HC02_VC34,Margin of Error; SEX AND AGE - Female
+HC03_VC34,Percent; SEX AND AGE - Female
+HC04_VC34,Percent Margin of Error; SEX AND AGE - Female
+HC01_VC38,Estimate; RACE - Total population
+HC02_VC38,Margin of Error; RACE - Total population
+HC03_VC38,Percent; RACE - Total population
+HC04_VC38,Percent Margin of Error; RACE - Total population
+HC01_VC39,Estimate; RACE - One race
+HC02_VC39,Margin of Error; RACE - One race
+HC03_VC39,Percent; RACE - One race
+HC04_VC39,Percent Margin of Error; RACE - One race
+HC01_VC40,Estimate; RACE - Two or more races
+HC02_VC40,Margin of Error; RACE - Two or more races
+HC03_VC40,Percent; RACE - Two or more races
+HC04_VC40,Percent Margin of Error; RACE - Two or more races
+HC01_VC42,Estimate; RACE - One race
+HC02_VC42,Margin of Error; RACE - One race
+HC03_VC42,Percent; RACE - One race
+HC04_VC42,Percent Margin of Error; RACE - One race
+HC01_VC43,Estimate; RACE - One race - White
+HC02_VC43,Margin of Error; RACE - One race - White
+HC03_VC43,Percent; RACE - One race - White
+HC04_VC43,Percent Margin of Error; RACE - One race - White
+HC01_VC44,Estimate; RACE - One race - Black or African American
+HC02_VC44,Margin of Error; RACE - One race - Black or African American
+HC03_VC44,Percent; RACE - One race - Black or African American
+HC04_VC44,Percent Margin of Error; RACE - One race - Black or African American
+HC01_VC45,Estimate; RACE - One race - American Indian and Alaska Native
+HC02_VC45,Margin of Error; RACE - One race - American Indian and Alaska Native
+HC03_VC45,Percent; RACE - One race - American Indian and Alaska Native
+HC04_VC45,Percent Margin of Error; RACE - One race - American Indian and Alaska Native
+HC01_VC46,Estimate; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC02_VC46,Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC03_VC46,Percent; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC04_VC46,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Cherokee tribal grouping
+HC01_VC47,Estimate; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC02_VC47,Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC03_VC47,Percent; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC04_VC47,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Chippewa tribal grouping
+HC01_VC48,Estimate; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC02_VC48,Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC03_VC48,Percent; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC04_VC48,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Navajo tribal grouping
+HC01_VC49,Estimate; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC02_VC49,Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC03_VC49,Percent; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC04_VC49,Percent Margin of Error; RACE - One race - American Indian and Alaska Native - Sioux tribal grouping
+HC01_VC50,Estimate; RACE - One race - Asian
+HC02_VC50,Margin of Error; RACE - One race - Asian
+HC03_VC50,Percent; RACE - One race - Asian
+HC04_VC50,Percent Margin of Error; RACE - One race - Asian
+HC01_VC51,Estimate; RACE - One race - Asian - Asian Indian
+HC02_VC51,Margin of Error; RACE - One race - Asian - Asian Indian
+HC03_VC51,Percent; RACE - One race - Asian - Asian Indian
+HC04_VC51,Percent Margin of Error; RACE - One race - Asian - Asian Indian
+HC01_VC52,Estimate; RACE - One race - Asian - Chinese
+HC02_VC52,Margin of Error; RACE - One race - Asian - Chinese
+HC03_VC52,Percent; RACE - One race - Asian - Chinese
+HC04_VC52,Percent Margin of Error; RACE - One race - Asian - Chinese
+HC01_VC53,Estimate; RACE - One race - Asian - Filipino
+HC02_VC53,Margin of Error; RACE - One race - Asian - Filipino
+HC03_VC53,Percent; RACE - One race - Asian - Filipino
+HC04_VC53,Percent Margin of Error; RACE - One race - Asian - Filipino
+HC01_VC54,Estimate; RACE - One race - Asian - Japanese
+HC02_VC54,Margin of Error; RACE - One race - Asian - Japanese
+HC03_VC54,Percent; RACE - One race - Asian - Japanese
+HC04_VC54,Percent Margin of Error; RACE - One race - Asian - Japanese
+HC01_VC55,Estimate; RACE - One race - Asian - Korean
+HC02_VC55,Margin of Error; RACE - One race - Asian - Korean
+HC03_VC55,Percent; RACE - One race - Asian - Korean
+HC04_VC55,Percent Margin of Error; RACE - One race - Asian - Korean
+HC01_VC56,Estimate; RACE - One race - Asian - Vietnamese
+HC02_VC56,Margin of Error; RACE - One race - Asian - Vietnamese
+HC03_VC56,Percent; RACE - One race - Asian - Vietnamese
+HC04_VC56,Percent Margin of Error; RACE - One race - Asian - Vietnamese
+HC01_VC57,Estimate; RACE - One race - Asian - Other Asian
+HC02_VC57,Margin of Error; RACE - One race - Asian - Other Asian
+HC03_VC57,Percent; RACE - One race - Asian - Other Asian
+HC04_VC57,Percent Margin of Error; RACE - One race - Asian - Other Asian
+HC01_VC58,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC02_VC58,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC03_VC58,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC04_VC58,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander
+HC01_VC59,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC02_VC59,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC03_VC59,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC04_VC59,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Native Hawaiian
+HC01_VC60,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC02_VC60,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC03_VC60,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC04_VC60,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Guamanian or Chamorro
+HC01_VC61,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC02_VC61,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC03_VC61,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC04_VC61,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Samoan
+HC01_VC62,Estimate; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC02_VC62,Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC03_VC62,Percent; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC04_VC62,Percent Margin of Error; RACE - One race - Native Hawaiian and Other Pacific Islander - Other Pacific Islander
+HC01_VC63,Estimate; RACE - One race - Some other race
+HC02_VC63,Margin of Error; RACE - One race - Some other race
+HC03_VC63,Percent; RACE - One race - Some other race
+HC04_VC63,Percent Margin of Error; RACE - One race - Some other race
+HC01_VC64,Estimate; RACE - Two or more races
+HC02_VC64,Margin of Error; RACE - Two or more races
+HC03_VC64,Percent; RACE - Two or more races
+HC04_VC64,Percent Margin of Error; RACE - Two or more races
+HC01_VC65,Estimate; RACE - Two or more races - White and Black or African American
+HC02_VC65,Margin of Error; RACE - Two or more races - White and Black or African American
+HC03_VC65,Percent; RACE - Two or more races - White and Black or African American
+HC04_VC65,Percent Margin of Error; RACE - Two or more races - White and Black or African American
+HC01_VC66,Estimate; RACE - Two or more races - White and American Indian and Alaska Native
+HC02_VC66,Margin of Error; RACE - Two or more races - White and American Indian and Alaska Native
+HC03_VC66,Percent; RACE - Two or more races - White and American Indian and Alaska Native
+HC04_VC66,Percent Margin of Error; RACE - Two or more races - White and American Indian and Alaska Native
+HC01_VC67,Estimate; RACE - Two or more races - White and Asian
+HC02_VC67,Margin of Error; RACE - Two or more races - White and Asian
+HC03_VC67,Percent; RACE - Two or more races - White and Asian
+HC04_VC67,Percent Margin of Error; RACE - Two or more races - White and Asian
+HC01_VC68,Estimate; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC02_VC68,Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC03_VC68,Percent; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC04_VC68,Percent Margin of Error; RACE - Two or more races - Black or African American and American Indian and Alaska Native
+HC01_VC71,Estimate; RACE - Race alone or in combination with one or more other races - Total population
+HC02_VC71,Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+HC03_VC71,Percent; RACE - Race alone or in combination with one or more other races - Total population
+HC04_VC71,Percent Margin of Error; RACE - Race alone or in combination with one or more other races - Total population
+HC01_VC72,Estimate; RACE - White
+HC02_VC72,Margin of Error; RACE - White
+HC03_VC72,Percent; RACE - White
+HC04_VC72,Percent Margin of Error; RACE - White
+HC01_VC73,Estimate; RACE - Black or African American
+HC02_VC73,Margin of Error; RACE - Black or African American
+HC03_VC73,Percent; RACE - Black or African American
+HC04_VC73,Percent Margin of Error; RACE - Black or African American
+HC01_VC74,Estimate; RACE - American Indian and Alaska Native
+HC02_VC74,Margin of Error; RACE - American Indian and Alaska Native
+HC03_VC74,Percent; RACE - American Indian and Alaska Native
+HC04_VC74,Percent Margin of Error; RACE - American Indian and Alaska Native
+HC01_VC75,Estimate; RACE - Asian
+HC02_VC75,Margin of Error; RACE - Asian
+HC03_VC75,Percent; RACE - Asian
+HC04_VC75,Percent Margin of Error; RACE - Asian
+HC01_VC76,Estimate; RACE - Native Hawaiian and Other Pacific Islander
+HC02_VC76,Margin of Error; RACE - Native Hawaiian and Other Pacific Islander
+HC03_VC76,Percent; RACE - Native Hawaiian and Other Pacific Islander
+HC04_VC76,Percent Margin of Error; RACE - Native Hawaiian and Other Pacific Islander
+HC01_VC77,Estimate; RACE - Some other race
+HC02_VC77,Margin of Error; RACE - Some other race
+HC03_VC77,Percent; RACE - Some other race
+HC04_VC77,Percent Margin of Error; RACE - Some other race
+HC01_VC81,Estimate; HISPANIC OR LATINO AND RACE - Total population
+HC02_VC81,Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+HC03_VC81,Percent; HISPANIC OR LATINO AND RACE - Total population
+HC04_VC81,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total population
+HC01_VC82,Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race)
+HC02_VC82,Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race)
+HC03_VC82,Percent; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race)
+HC04_VC82,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race)
+HC01_VC83,Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Mexican
+HC02_VC83,Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Mexican
+HC03_VC83,Percent; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Mexican
+HC04_VC83,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Mexican
+HC01_VC84,Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Puerto Rican
+HC02_VC84,Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Puerto Rican
+HC03_VC84,Percent; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Puerto Rican
+HC04_VC84,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Puerto Rican
+HC01_VC85,Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Cuban
+HC02_VC85,Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Cuban
+HC03_VC85,Percent; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Cuban
+HC04_VC85,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Cuban
+HC01_VC86,Estimate; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC02_VC86,Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC03_VC86,Percent; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC04_VC86,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Hispanic or Latino (of any race) - Other Hispanic or Latino
+HC01_VC87,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino
+HC02_VC87,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino
+HC03_VC87,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino
+HC04_VC87,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino
+HC01_VC88,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - White alone
+HC02_VC88,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - White alone
+HC03_VC88,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - White alone
+HC04_VC88,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - White alone
+HC01_VC89,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone
+HC02_VC89,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone
+HC03_VC89,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone
+HC04_VC89,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Black or African American alone
+HC01_VC90,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC02_VC90,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC03_VC90,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC04_VC90,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - American Indian and Alaska Native alone
+HC01_VC91,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Asian alone
+HC02_VC91,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Asian alone
+HC03_VC91,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Asian alone
+HC04_VC91,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Asian alone
+HC01_VC92,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC02_VC92,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC03_VC92,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC04_VC92,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Native Hawaiian and Other Pacific Islander alone
+HC01_VC93,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Some other race alone
+HC02_VC93,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Some other race alone
+HC03_VC93,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Some other race alone
+HC04_VC93,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Some other race alone
+HC01_VC94,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races
+HC02_VC94,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races
+HC03_VC94,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races
+HC04_VC94,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races
+HC01_VC95,Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC02_VC95,Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC03_VC95,Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC04_VC95,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races including Some other race
+HC01_VC96,"Estimate; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC02_VC96,"Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC03_VC96,"Percent; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC04_VC96,"Percent Margin of Error; HISPANIC OR LATINO AND RACE - Not Hispanic or Latino - Two or more races - Two races excluding Some other race, and Three or more races"
+HC01_VC98,Estimate; HISPANIC OR LATINO AND RACE - Total housing units
+HC02_VC98,Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units
+HC03_VC98,Percent; HISPANIC OR LATINO AND RACE - Total housing units
+HC04_VC98,Percent Margin of Error; HISPANIC OR LATINO AND RACE - Total housing units

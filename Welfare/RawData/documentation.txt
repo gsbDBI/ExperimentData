@@ -1,0 +1,20 @@
+http://www3.norc.org/GSS+Website/Browse+GSS+Variables/Subject+Index/
+http://www3.norc.org/GSS+Website/Browse+GSS+Variables/Collections/
+
+
+The negative attitudes toward blacks scale is based on 4 “yes”/“no” responses to the following survey question: “On average Blacks have worse jobs, income, and housing than white people. Do you think these differences are . . . ”, where respondents were presented with 4 possibilities: 
+
+“Mainly due to discrimination?” RACDIF1 (“yes” = 0; “no” = 1) ; 
+
+“Because most Blacks have less in-born ability to learn?” RACDIF2 (“yes” = 1; “no” = 0); 
+
+“Because most Blacks don’t have the chance for education that it takes to rise out of poverty?” (“yes” = 0; “no” = 1);  RACDIF3
+
+“Because most Blacks just don’t have the motivation or will power to pull themselves up out of poverty?” RACDIF4 (“yes” = 1; “no” = 0). 
+
+We coded each response as either 0 or 1 and took the average over all responses. When an individual’s responses were partially missing we used the remaining responses to construct the index for this individual.
+
+paper also used 
+EDUC -> education in years
+AGE-> age of respondent
+POLVIEWS-> 7-point liberal-conservative scale

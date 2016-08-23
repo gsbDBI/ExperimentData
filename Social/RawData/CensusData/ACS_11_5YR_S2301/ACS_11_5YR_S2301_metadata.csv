@@ -1,0 +1,243 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population 16 years and over
+HC01_MOE_VC01,Total; Margin of Error; Population 16 years and over
+HC02_EST_VC01,In labor force; Estimate; Population 16 years and over
+HC02_MOE_VC01,In labor force; Margin of Error; Population 16 years and over
+HC03_EST_VC01,Employed; Estimate; Population 16 years and over
+HC03_MOE_VC01,Employed; Margin of Error; Population 16 years and over
+HC04_EST_VC01,Unemployment rate; Estimate; Population 16 years and over
+HC04_MOE_VC01,Unemployment rate; Margin of Error; Population 16 years and over
+HC01_EST_VC03,Total; Estimate; AGE - 16 to 19 years
+HC01_MOE_VC03,Total; Margin of Error; AGE - 16 to 19 years
+HC02_EST_VC03,In labor force; Estimate; AGE - 16 to 19 years
+HC02_MOE_VC03,In labor force; Margin of Error; AGE - 16 to 19 years
+HC03_EST_VC03,Employed; Estimate; AGE - 16 to 19 years
+HC03_MOE_VC03,Employed; Margin of Error; AGE - 16 to 19 years
+HC04_EST_VC03,Unemployment rate; Estimate; AGE - 16 to 19 years
+HC04_MOE_VC03,Unemployment rate; Margin of Error; AGE - 16 to 19 years
+HC01_EST_VC04,Total; Estimate; AGE - 20 to 24 years
+HC01_MOE_VC04,Total; Margin of Error; AGE - 20 to 24 years
+HC02_EST_VC04,In labor force; Estimate; AGE - 20 to 24 years
+HC02_MOE_VC04,In labor force; Margin of Error; AGE - 20 to 24 years
+HC03_EST_VC04,Employed; Estimate; AGE - 20 to 24 years
+HC03_MOE_VC04,Employed; Margin of Error; AGE - 20 to 24 years
+HC04_EST_VC04,Unemployment rate; Estimate; AGE - 20 to 24 years
+HC04_MOE_VC04,Unemployment rate; Margin of Error; AGE - 20 to 24 years
+HC01_EST_VC05,Total; Estimate; AGE - 25 to 44 years
+HC01_MOE_VC05,Total; Margin of Error; AGE - 25 to 44 years
+HC02_EST_VC05,In labor force; Estimate; AGE - 25 to 44 years
+HC02_MOE_VC05,In labor force; Margin of Error; AGE - 25 to 44 years
+HC03_EST_VC05,Employed; Estimate; AGE - 25 to 44 years
+HC03_MOE_VC05,Employed; Margin of Error; AGE - 25 to 44 years
+HC04_EST_VC05,Unemployment rate; Estimate; AGE - 25 to 44 years
+HC04_MOE_VC05,Unemployment rate; Margin of Error; AGE - 25 to 44 years
+HC01_EST_VC06,Total; Estimate; AGE - 45 to 54 years
+HC01_MOE_VC06,Total; Margin of Error; AGE - 45 to 54 years
+HC02_EST_VC06,In labor force; Estimate; AGE - 45 to 54 years
+HC02_MOE_VC06,In labor force; Margin of Error; AGE - 45 to 54 years
+HC03_EST_VC06,Employed; Estimate; AGE - 45 to 54 years
+HC03_MOE_VC06,Employed; Margin of Error; AGE - 45 to 54 years
+HC04_EST_VC06,Unemployment rate; Estimate; AGE - 45 to 54 years
+HC04_MOE_VC06,Unemployment rate; Margin of Error; AGE - 45 to 54 years
+HC01_EST_VC07,Total; Estimate; AGE - 55 to 64 years
+HC01_MOE_VC07,Total; Margin of Error; AGE - 55 to 64 years
+HC02_EST_VC07,In labor force; Estimate; AGE - 55 to 64 years
+HC02_MOE_VC07,In labor force; Margin of Error; AGE - 55 to 64 years
+HC03_EST_VC07,Employed; Estimate; AGE - 55 to 64 years
+HC03_MOE_VC07,Employed; Margin of Error; AGE - 55 to 64 years
+HC04_EST_VC07,Unemployment rate; Estimate; AGE - 55 to 64 years
+HC04_MOE_VC07,Unemployment rate; Margin of Error; AGE - 55 to 64 years
+HC01_EST_VC08,Total; Estimate; AGE - 65 to 74 years
+HC01_MOE_VC08,Total; Margin of Error; AGE - 65 to 74 years
+HC02_EST_VC08,In labor force; Estimate; AGE - 65 to 74 years
+HC02_MOE_VC08,In labor force; Margin of Error; AGE - 65 to 74 years
+HC03_EST_VC08,Employed; Estimate; AGE - 65 to 74 years
+HC03_MOE_VC08,Employed; Margin of Error; AGE - 65 to 74 years
+HC04_EST_VC08,Unemployment rate; Estimate; AGE - 65 to 74 years
+HC04_MOE_VC08,Unemployment rate; Margin of Error; AGE - 65 to 74 years
+HC01_EST_VC09,Total; Estimate; AGE - 75 years and over
+HC01_MOE_VC09,Total; Margin of Error; AGE - 75 years and over
+HC02_EST_VC09,In labor force; Estimate; AGE - 75 years and over
+HC02_MOE_VC09,In labor force; Margin of Error; AGE - 75 years and over
+HC03_EST_VC09,Employed; Estimate; AGE - 75 years and over
+HC03_MOE_VC09,Employed; Margin of Error; AGE - 75 years and over
+HC04_EST_VC09,Unemployment rate; Estimate; AGE - 75 years and over
+HC04_MOE_VC09,Unemployment rate; Margin of Error; AGE - 75 years and over
+HC01_EST_VC12,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_MOE_VC12,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_EST_VC12,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_MOE_VC12,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC03_EST_VC12,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC03_MOE_VC12,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC04_EST_VC12,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC04_MOE_VC12,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_EST_VC13,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_MOE_VC13,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_EST_VC13,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_MOE_VC13,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC03_EST_VC13,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC03_MOE_VC13,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC04_EST_VC13,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC04_MOE_VC13,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_EST_VC14,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_MOE_VC14,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_EST_VC14,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_MOE_VC14,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC03_EST_VC14,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC03_MOE_VC14,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC04_EST_VC14,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC04_MOE_VC14,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_EST_VC15,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_MOE_VC15,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC03_EST_VC15,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC03_MOE_VC15,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC04_EST_VC15,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC04_MOE_VC15,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_EST_VC16,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_MOE_VC16,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC03_EST_VC16,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC03_MOE_VC16,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC04_EST_VC16,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC04_MOE_VC16,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_EST_VC17,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC17,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC17,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC17,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC03_EST_VC17,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC03_MOE_VC17,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC04_EST_VC17,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC04_MOE_VC17,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_EST_VC18,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_MOE_VC18,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_EST_VC18,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_MOE_VC18,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC03_EST_VC18,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC03_MOE_VC18,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC04_EST_VC18,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC04_MOE_VC18,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_EST_VC19,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC19,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC19,In labor force; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC19,In labor force; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC19,Employed; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_MOE_VC19,Employed; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC04_EST_VC19,Unemployment rate; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC04_MOE_VC19,Unemployment rate; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC21,Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC21,Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC21,In labor force; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC21,In labor force; Margin of Error; Hispanic or Latino origin (of any race)
+HC03_EST_VC21,Employed; Estimate; Hispanic or Latino origin (of any race)
+HC03_MOE_VC21,Employed; Margin of Error; Hispanic or Latino origin (of any race)
+HC04_EST_VC21,Unemployment rate; Estimate; Hispanic or Latino origin (of any race)
+HC04_MOE_VC21,Unemployment rate; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC22,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC22,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC22,"In labor force; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC22,"In labor force; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC22,"Employed; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC22,"Employed; Margin of Error; White alone, not Hispanic or Latino"
+HC04_EST_VC22,"Unemployment rate; Estimate; White alone, not Hispanic or Latino"
+HC04_MOE_VC22,"Unemployment rate; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC24,Total; Estimate; Population 20 to 64 years
+HC01_MOE_VC24,Total; Margin of Error; Population 20 to 64 years
+HC02_EST_VC24,In labor force; Estimate; Population 20 to 64 years
+HC02_MOE_VC24,In labor force; Margin of Error; Population 20 to 64 years
+HC03_EST_VC24,Employed; Estimate; Population 20 to 64 years
+HC03_MOE_VC24,Employed; Margin of Error; Population 20 to 64 years
+HC04_EST_VC24,Unemployment rate; Estimate; Population 20 to 64 years
+HC04_MOE_VC24,Unemployment rate; Margin of Error; Population 20 to 64 years
+HC01_EST_VC26,Total; Estimate; SEX - Male
+HC01_MOE_VC26,Total; Margin of Error; SEX - Male
+HC02_EST_VC26,In labor force; Estimate; SEX - Male
+HC02_MOE_VC26,In labor force; Margin of Error; SEX - Male
+HC03_EST_VC26,Employed; Estimate; SEX - Male
+HC03_MOE_VC26,Employed; Margin of Error; SEX - Male
+HC04_EST_VC26,Unemployment rate; Estimate; SEX - Male
+HC04_MOE_VC26,Unemployment rate; Margin of Error; SEX - Male
+HC01_EST_VC27,Total; Estimate; SEX - Female
+HC01_MOE_VC27,Total; Margin of Error; SEX - Female
+HC02_EST_VC27,In labor force; Estimate; SEX - Female
+HC02_MOE_VC27,In labor force; Margin of Error; SEX - Female
+HC03_EST_VC27,Employed; Estimate; SEX - Female
+HC03_MOE_VC27,Employed; Margin of Error; SEX - Female
+HC04_EST_VC27,Unemployment rate; Estimate; SEX - Female
+HC04_MOE_VC27,Unemployment rate; Margin of Error; SEX - Female
+HC01_EST_VC28,Total; Estimate; SEX - Female - With own children under 6 years
+HC01_MOE_VC28,Total; Margin of Error; SEX - Female - With own children under 6 years
+HC02_EST_VC28,In labor force; Estimate; SEX - Female - With own children under 6 years
+HC02_MOE_VC28,In labor force; Margin of Error; SEX - Female - With own children under 6 years
+HC03_EST_VC28,Employed; Estimate; SEX - Female - With own children under 6 years
+HC03_MOE_VC28,Employed; Margin of Error; SEX - Female - With own children under 6 years
+HC04_EST_VC28,Unemployment rate; Estimate; SEX - Female - With own children under 6 years
+HC04_MOE_VC28,Unemployment rate; Margin of Error; SEX - Female - With own children under 6 years
+HC01_EST_VC31,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_MOE_VC31,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_EST_VC31,In labor force; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_MOE_VC31,In labor force; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_EST_VC31,Employed; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_MOE_VC31,Employed; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC04_EST_VC31,Unemployment rate; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC04_MOE_VC31,Unemployment rate; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_EST_VC34,Total; Estimate; DISABILITY STATUS - With any disability
+HC01_MOE_VC34,Total; Margin of Error; DISABILITY STATUS - With any disability
+HC02_EST_VC34,In labor force; Estimate; DISABILITY STATUS - With any disability
+HC02_MOE_VC34,In labor force; Margin of Error; DISABILITY STATUS - With any disability
+HC03_EST_VC34,Employed; Estimate; DISABILITY STATUS - With any disability
+HC03_MOE_VC34,Employed; Margin of Error; DISABILITY STATUS - With any disability
+HC04_EST_VC34,Unemployment rate; Estimate; DISABILITY STATUS - With any disability
+HC04_MOE_VC34,Unemployment rate; Margin of Error; DISABILITY STATUS - With any disability
+HC01_EST_VC38,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC01_MOE_VC38,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC02_EST_VC38,In labor force; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC02_MOE_VC38,In labor force; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC03_EST_VC38,Employed; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC03_MOE_VC38,Employed; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC04_EST_VC38,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC04_MOE_VC38,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 to 64 years
+HC01_EST_VC39,Total; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC01_MOE_VC39,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC02_EST_VC39,In labor force; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC02_MOE_VC39,In labor force; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC03_EST_VC39,Employed; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC03_MOE_VC39,Employed; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC04_EST_VC39,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC04_MOE_VC39,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Less than high school graduate
+HC01_EST_VC40,Total; Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC01_MOE_VC40,Total; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC02_EST_VC40,In labor force; Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC02_MOE_VC40,In labor force; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC03_EST_VC40,Employed; Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC03_MOE_VC40,Employed; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC04_EST_VC40,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC04_MOE_VC40,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - High school graduate (includes equivalency)
+HC01_EST_VC41,Total; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC01_MOE_VC41,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC02_EST_VC41,In labor force; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC02_MOE_VC41,In labor force; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC03_EST_VC41,Employed; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC03_MOE_VC41,Employed; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC04_EST_VC41,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC04_MOE_VC41,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Some college or associate's degree
+HC01_EST_VC42,Total; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC01_MOE_VC42,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC02_EST_VC42,In labor force; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC02_MOE_VC42,In labor force; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC03_EST_VC42,Employed; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC03_MOE_VC42,Employed; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC04_EST_VC42,Unemployment rate; Estimate; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC04_MOE_VC42,Unemployment rate; Margin of Error; EDUCATIONAL ATTAINMENT - Bachelor's degree or higher
+HC01_EST_VC45,Total; Estimate; PERCENT IMPUTED - Employment status for population 16 years and over
+HC01_MOE_VC45,Total; Margin of Error; PERCENT IMPUTED - Employment status for population 16 years and over
+HC02_EST_VC45,In labor force; Estimate; PERCENT IMPUTED - Employment status for population 16 years and over
+HC02_MOE_VC45,In labor force; Margin of Error; PERCENT IMPUTED - Employment status for population 16 years and over
+HC03_EST_VC45,Employed; Estimate; PERCENT IMPUTED - Employment status for population 16 years and over
+HC03_MOE_VC45,Employed; Margin of Error; PERCENT IMPUTED - Employment status for population 16 years and over
+HC04_EST_VC45,Unemployment rate; Estimate; PERCENT IMPUTED - Employment status for population 16 years and over
+HC04_MOE_VC45,Unemployment rate; Margin of Error; PERCENT IMPUTED - Employment status for population 16 years and over
