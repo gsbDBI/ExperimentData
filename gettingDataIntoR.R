@@ -3,7 +3,9 @@
 #####################################
 
 # set the working directory
-setwd("/ifs/gsb/athey/MachineLearningData/Data")
+#work_dir should point to your local work dir
+work_dir<'C:/temp/'
+setwd(work_dir)
 
 # clear things in RStudio
 rm(list = ls())
