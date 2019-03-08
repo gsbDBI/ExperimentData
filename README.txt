@@ -10,6 +10,14 @@ Datasets:
 
 ==========
 
+Advertising
+
+Data used for the paper
+What is advertising content worth?
+Bertrand, Karlan, Mullainithan, Shafir and Zinman (2010)
+
+----------
+
 Charitable
 
 Data used for the paper
