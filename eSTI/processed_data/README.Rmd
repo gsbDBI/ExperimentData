@@ -1,0 +1,97 @@
+---
+date: "2/28/2023"
+output: 
+  md_document:
+  always_allow_html: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, knitr.kable.NA = '')
+library(knitr)
+library(readxl)
+library(tidyverse)
+library(janitor)
+```
+
+
+Wilson E, Free C, Morris TP, Syred J, Ahamed I, Menon-Johansson AS, et al. (2017) Internet-accessed sexually transmitted infection (eSTI) testing and results service: A randomised, single-blind, controlled trial. PLoS Med 14(12): e1002479. [https://doi.org/10.1371/journal.pmed.1002479]()
+
+Here is the data dictionary from the original data. 
+
+```{r, echo = F}
+guide <- read_xls("raw_data/S1 Data.xls", sheet = 1, col_names = F) 
+kable(guide, col.names = c("Variable", "Description"))
+```
+
+
+To create the process data set, we make the following choices:
+
+1. The paper has two primary outcomes: `anytest` and `anydiag`. We choose `anytest` for the processed data.
+
+2. Some tables in the paper uses MICE to impute missing values. The core findings tables only use complete observations rather than the including the imputed data, so our processed data only uses complete observations.
+
+3. The available categories for number of partners is 1-9, 10+. We opted to make this a binary variable following the core findings tables in the paper.
+
+Next, we clean the data to be used for the HTE tutorial:
+
+```{r}
+# read in data
+data_original <- read_xls("raw_data/S1 Data.xls", sheet = 2) 
+
+# filter to complete cases
+complete_cases <- data_original %>% 
+  drop_na(anytest) 
+
+data <- complete_cases %>%
+  mutate(y = anytest,
+         w = ifelse(group == "Control", 0 , 1), 
+         msm = ifelse(msm == "msm", 1, 0), 
+         partners1 = ifelse(partners == "1", 1, 0), 
+         postlaunch = ifelse(sh24_launch == "1 = dor post-launch", 1, 0)) %>%
+  cbind(model.matrix(~ 0 +., complete_cases[, c("ethnicgrp")])) %>%
+  cbind(model.matrix(~ 0 +., complete_cases[, c("gender")])) %>%
+  clean_names()  %>%
+  select(y, w, gender_female, gender_male, gender_transgender, 
+         ethnicgrp_asian = ethnicgrp_asian_asian_british, 
+         ethnicgrp_black = ethnicgrp_black_black_british, 
+         ethnicgrp_mixed_multiple = ethnicgrp_mixed_multiple_ethnicity, 
+         ethnicgrp_other, 
+         ethnicgrp_white = ethnicgrp_white_white_british, 
+         partners1, postlaunch, msm, age, imd_decile)
+
+write.csv(data, "processed_data/processed_esti.csv", row.names = F)
+```
+
+
+These are the available variables in the processed data:
+
+```{r, echo = F}
+
+defs <- c("Outcome: Any STI test (objective data)",
+  "Indicator for Treated", 
+  "Indicator for Female", 
+  "Indicator for Male", 
+  "Indicator for Transgender", 
+  "Indicator for Asian/ Asian British", 
+  "Indicator for Black/ Black British", 
+  "Indicator for Mixed/ Multiple ethnicity", 
+  "Indicator for Other", 
+  "Indicator for White/ White British", 
+  "Indicator for 1 Partner",
+  "Indicator for Randomised after SH:24 made publically available", 
+  "Indicator for Men who have sex with men", 
+  "Continuous Age, 16-30", 
+  "Continuous Index of Multiple Deprivation 2015 - Deciles, 1-9"
+  )
+
+processed_data_guide <- data.frame(Variables = colnames(data), Definitions = defs)
+write.csv(processed_data_guide, "processed_data/processed_esti_guide.csv", row.names = F)
+
+kable(processed_data_guide)
+```
+
+
+
+
+
+
